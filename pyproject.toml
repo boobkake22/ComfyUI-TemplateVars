@@ -1,0 +1,18 @@
+[project]
+name = "template-vars"
+description = "ComfyUI custom nodes for scoped, graph-based string template variables."
+authors = [
+    { name = "boobkake22", email = "boobkake22@gmail.com" }
+]
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/boobkake22/ComfyUI-TemplateVars"
+"Bug Tracker" = "https://github.com/boobkake22/ComfyUI-TemplateVars/issues"
+
+[tool.comfy]
+PublisherId = "boobkake22"
+DisplayName = "Template Vars"
+Icon = ""
